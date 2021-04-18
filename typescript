@@ -1,0 +1,15 @@
+Script started on 2021-03-22 06:48:25-0700
+]0;osj6127@ubuntu: ~osj6127@ubuntu:~$ [s
+[s: command not found
+]0;osj6127@ubuntu: ~osj6127@ubuntu:~$ s[Kps
+   PID TTY          TIME CMD
+  2408 pts/1    00:00:00 bash
+  2427 pts/1    00:00:00 ps
+]0;osj6127@ubuntu: ~osj6127@ubuntu:~$ s[Kkill -9 3939[K[K29
+bash: kill: (3929) - No such process
+]0;osj6127@ubuntu: ~osj6127@ubuntu:~$ k[Kdate
+Mon Mar 22 06:48:46 PDT 2021
+]0;osj6127@ubuntu: ~osj6127@ubuntu:~$ exit
+exit
+
+Script done on 2021-03-22 06:48:51-0700

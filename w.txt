@@ -1,0 +1,4 @@
+ 23:59:16 up 52 min,  2 users,  load average: 0.12, 0.06, 0.02
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+osj6127  :0       :0               23:07   ?xdm?  44.15s  0.01s /usr/lib/gdm3/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu gnome-session --session=ubuntu
+osj6127  pts/0    192.168.159.1    23:08   47:32   0.07s  0.07s -bash
